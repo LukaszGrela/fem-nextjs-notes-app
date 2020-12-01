@@ -1,0 +1,24 @@
+{
+  "name": "notes-app",
+  "version": "0.0.1",
+  "description": "NextJS notes app - FeM tutorial",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Lukasz 'Severiaan' Grela",
+  "license": "MIT",
+  "dependencies": {
+    "@theme-ui/presets": "^0.3.4",
+    "body-parser": "^1.19.0",
+    "dotenv-load": "^2.0.0",
+    "next": "^10.0.3",
+    "next-connect": "^0.9.1",
+    "next-env": "^1.1.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "theme-ui": "^0.3.4"
+  }
+}
