@@ -4,7 +4,7 @@
   "description": "NextJS notes app - FeM tutorial",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
+    "dev": "next -p 4000",
     "build": "next build",
     "start": "next start"
   },
